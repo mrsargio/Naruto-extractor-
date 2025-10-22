@@ -6,8 +6,8 @@ class Config(object):
     API_HASH = "cb3f118ce5553dc140127647edcf3720"
     ADMIN = '6175650047,59194'.split(',')
     ADMIN_ID = [int(id) for id in ADMIN]
-    DB_URL = "mongodb+srv://n8360392852:JMXqsP0puz9qwgBe@cluster0.ce0ca.mongodb EDIT HERE  "
-    DB_NAME = "WARRIOR_EXTRACTOR"
+    DB_URL = "mongodb+srv://tmglcd:kI1UijMr2jJXyOXY@cluster0.unjzi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    DB_NAME = "MY_BOT_DB"
     TXT_LOG = -1003164620330
     AUTH_LOG = -1003164620330
     HIT_LOG = -1003164620330
@@ -16,5 +16,5 @@ class Config(object):
     CH_URL = "https://t.me/sujuki27"
     OWNER = "https://t.me/sujuki27"
     THUMB_URL = "https://vault.pictures/media/images/b9/ad/12/b9ad123d95cd49465fcb954d.jpg" #Replace by with your Thumb URL
-    HOST = "https://drm-api-five.vercel.app"
+    HOST = "https://api.masterapi.tech"
 
